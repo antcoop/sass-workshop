@@ -1,0 +1,24 @@
+{
+  "name": "sass-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antcoop/sass-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antcoop/sass-workshop/issues"
+  },
+  "homepage": "https://github.com/antcoop/sass-workshop#readme",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
